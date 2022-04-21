@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1911500086_UTSGA</string>
+    <string name="title_home">Lokasi saat ini</string>
+    <string name="title_dashboard">Pencarian Lokasi</string>
+    <string name="title_notifications">TitikLokasiSekarang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

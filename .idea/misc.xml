@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1911500086_UTSGA/1911500086_UTSGA/app/src/main/res/layout/fragment_pencarianlokasi086.xml" value="0.25" />
+        <entry key="..\:/1911500086_UTSGA/1911500086_UTSGA/app/src/main/res/layout/fragment_titiklokasisekarang086.xml" value="0.33" />
+        <entry key="..\:/1911500086_UTSGA/1911500086_UTSGA/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/1911500086_UTSGA/app/src/main/res/layout/activity_main.xml" value="0.16576086956521738" />
+        <entry key="..\:/1911500086_UTSGA/app/src/main/res/layout/fragment_lokasisaatini086.xml" value="0.25" />
+        <entry key="..\:/1911500086_UTSGA/app/src/main/res/layout/fragment_pencarianlokasi086.xml" value="0.1" />
+        <entry key="..\:/1911500086_UTSGA/app/src/main/res/layout/titiklokasisekarang086_fragment.xml" value="0.26582278481012656" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
